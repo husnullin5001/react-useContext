@@ -1,3 +1,6 @@
+This project from youtube lesson -> https://youtu.be/5LrDIWkK_Bc
+Learn useContext
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
